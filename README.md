@@ -1,3 +1,6 @@
 # SFWE-301_FirstRepository
-This is our first repository for our class
-In here you can add all the source code of your project
+
+Important links to check:
+Develop a Java GUI applications in Visual Studio - https://code.visualstudio.com/docs/java/java-gui
+
+
